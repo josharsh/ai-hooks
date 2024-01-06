@@ -1,3 +1,4 @@
 import useTextGeneration from "./useTextGeneration";
 import useImageGeneration from "./useImageGeneration";
-export { useTextGeneration, useImageGeneration };
+import usePredictiveCompletion from "./usePredictiveCompletion";
+export { useTextGeneration, useImageGeneration, usePredictiveCompletion };
