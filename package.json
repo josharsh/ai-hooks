@@ -1,0 +1,44 @@
+{
+  "name": "genai-hooks",
+  "version": "1.0.21",
+  "description": "This package offers handy ai hooks written in react",
+  "main": "dist/hooks/index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist --extensions '.js,.jsx' --source-maps inline"
+  },
+  "keywords": [
+    "josharsh",
+    "Harsh Joshi",
+    "react openai",
+    "javascript",
+    "accessibility",
+    "ai-actions",
+    "generative ai",
+    "text generation"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.7",
+    "@babel/preset-react": "^7.23.3",
+    "@testing-library/react": "^14.1.2",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.2",
+    "eslint-plugin-react": "^7.33.2",
+    "prettier": "^3.1.1",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "author": "josharhs",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "express": "^4.18.2",
+    "openai": "^4.24.1"
+  }
+}
