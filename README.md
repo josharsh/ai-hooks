@@ -95,6 +95,7 @@ export default ImageGeneratorComponent;
 
 #### usePredictiveCompletion Example
 Refer to src/examples/PredictiveTextComponent.jsx
+
 [!UsePredictiveCompletion Demonstration](/resources/example-usePredictiveCompletion.png)
 
 [!UsePredictiveCompletion Demonstration](https://raw.githubusercontent.com/josharsh/ai-hooks/main/resources/example-usePredictiveCompletion.png)
@@ -103,6 +104,7 @@ Refer to src/examples/PredictiveTextComponent.jsx
 
 #### useLanguageTranslation Example
 Refer to src/examples/LanguageTranslationComponent.jsx
+
 [!UseLanguageTranslation Demonstration](/resources/example-useLanguageTranslation.png)
 
 [!UseLanguageTranslation Demonstration](https://raw.githubusercontent.com/josharsh/ai-hooks/main/resources/example-useLanguageTranslation.png)
