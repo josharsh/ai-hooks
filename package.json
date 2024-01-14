@@ -1,6 +1,6 @@
 {
   "name": "genai-hooks",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "This package offers handy ai hooks written in react",
   "main": "dist/hooks/index.js",
   "scripts": {

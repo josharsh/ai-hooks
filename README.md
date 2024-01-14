@@ -14,6 +14,7 @@ npm install genai-hooks
 1. useTextGeneration - For Generating Text
 2. useImageGeneration - For Generating Images
 3. usePredictiveCompletion - For predictive text input suggestions.
+4. useLanguageTranslation - For Translation to any Language
 
 ## Sample Usage
 
@@ -96,15 +97,11 @@ export default ImageGeneratorComponent;
 #### usePredictiveCompletion Example
 Refer to src/examples/PredictiveTextComponent.jsx
 
-<!-- [!UsePredictiveCompletion Demonstration](/resources/example-usePredictiveCompletion.png) -->
-
 ![UsePredictiveCompletion Demonstration](https://raw.githubusercontent.com/josharsh/ai-hooks/main/resources/example-usePredictiveCompletion.png)
 
 
 
 #### useLanguageTranslation Example
 Refer to src/examples/LanguageTranslationComponent.jsx
-
-<!-- [!UseLanguageTranslation Demonstration](/resources/example-useLanguageTranslation.png) -->
 
 ![UseLanguageTranslation Demonstration](https://raw.githubusercontent.com/josharsh/ai-hooks/main/resources/example-useLanguageTranslation.png)
