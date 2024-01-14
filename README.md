@@ -17,7 +17,7 @@ npm install genai-hooks
 
 ## Sample Usage
 
-#### useTextGeneration
+#### useTextGeneration Example
 ```
 import { useState } from 'react';
 import useTextGeneration from 'genai-hooks';
@@ -56,7 +56,7 @@ export default TextGeneratorComponent;
 ```
 
 
-#### useImageGeneration
+#### useImageGeneration Example
 ```
 import { useState } from 'react';
 import {useImageGeneration} from 'genai-hooks'
@@ -93,7 +93,7 @@ export default ImageGeneratorComponent;
 ```
 
 
-#### usePredictiveCompletion
+#### usePredictiveCompletion Example
 ```
 import { useState } from 'react';
 import { usePredictiveCompletion } from 'genai-hooks';
@@ -166,4 +166,4 @@ const PredictiveTextInput = () => {
 export default PredictiveTextInput;
 
 ```
-[![UsePredictiveCompletion Demonstration](/resources/example-usePredictiveCompletion.png)]
+[!UsePredictiveCompletion Demonstration](/resources/example-usePredictiveCompletion.png)
